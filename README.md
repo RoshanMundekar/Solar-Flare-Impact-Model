@@ -14,7 +14,7 @@ Solar flare classes (e.g., X, M, C classes, based on intensity) Observation time
 # Data Sources: NASA’s GOES satellite data, SOHO, or other relevant solar observatories.
 
 # FINAL OUTPUT
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/1.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/1.png)
 ![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/2.png)
 ![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/3.png)
 ![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/4.png)
