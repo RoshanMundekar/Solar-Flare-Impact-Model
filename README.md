@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌞 Solar Flare Impact Model
 
 Space Weather Forecasting Using Machine Learning Table of Contents Project Overview Motivation Dataset Methodology Machine Learning Models Installation Usage Results Future Work Contributing License Project Overview This project focuses on forecasting space weather by predicting solar flares and assessing their potential impact on Earth’s environment. Solar flares are intense bursts of electromagnetic radiation from the Sun, posing risks to technologies such as:
@@ -15,10 +14,10 @@ Solar flare classes (e.g., X, M, C classes, based on intensity) Observation time
 # Data Sources: NASA’s GOES satellite data, SOHO, or other relevant solar observatories.
 
 # FINAL OUTPUT
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/1.png)
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/2.png)
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/3.png)
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/4.png)
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/5.png)
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/6.png)
-![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/tree/main/screenshot/7.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/1.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/2.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/3.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/4.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/5.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/6.png)
+![image](https://github.com/RoshanMundekar/Solar-Flare-Impact-Model/screenshot/7.png)
