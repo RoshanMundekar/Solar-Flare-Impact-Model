@@ -1,4 +1,4 @@
-Solar Flare Impact Model: Space Weather Forecasting Using Machine Learning
+#Solar Flare Impact Model: Space Weather Forecasting Using Machine Learning
 Table of Contents
 Project Overview
 Motivation
